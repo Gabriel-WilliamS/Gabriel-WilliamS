@@ -40,7 +40,7 @@
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/Gabriel-WilliamS)
 
 
-<p align='center'>
+<p align='center' margin-top="10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-WilliamS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Gabriel Wwilliam Github Stats">
 </p>
 
