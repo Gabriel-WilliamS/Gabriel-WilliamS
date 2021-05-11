@@ -1,5 +1,3 @@
-![Web-developer](https://avatars.githubusercontent.com/u/67422832?v=4)
-    
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I'm Gabriel William Serrano a Systems Analyst from Brazil.
@@ -19,9 +17,13 @@
   <img align="left" alt="Gabriel William" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<br />
-<br />
-
+   
+   
+   
+   
+   
+   
+   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 ### 👨‍💻 Languages and Tools
@@ -40,8 +42,6 @@
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/Gabriel-WilliamS)
 
 
-<br />
-<br />
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-WilliamS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Gabriel Wwilliam Github Stats">
