@@ -1,4 +1,4 @@
-# Olá 👋, sou o Gabriel William Serrano
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45b8ed&height=180&section=header&text=Olá 👋, sou o Gabriel William Serrano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 - 👨‍🎓 Graduated in Systems Analysis and Development
 - 🔎 I am interested in improving my skills by working in a group and contributing to the programming community.
@@ -69,3 +69,5 @@
  <div style="display: flex" >
    <a href="https://wa.me/19982189423"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  </div>
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45b8ed&height=120&section=footer"/>
